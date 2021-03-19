@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Anecdotes Project
 
 Go to https://drewcsontos.github.io/ReactAnecdotes/index.html to check out my React project.
+
+This was the first project I made in React. It lets you vote on different anecdotes and also displays random anecdotes. I didn't style it at all with css since I was focusing on learning React. 
